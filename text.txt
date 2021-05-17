@@ -8,24 +8,24 @@ C. EXISTING SOLUTIONS / PRIOR ART/RELATED APPLICATIONS & PATENTS:
 1. List any known products, or combination of products, currently available to solve the same problem(s). What is the present commercial practice?
 There are no such attachments present in the market commercially which comes with both panic button and location sharing functionality and is attachable to every kind of wheelchair. Only some mobile applications are available which are not handy/convenient to use in case of emergency.
 2. In what way(s) do the presently available solutions fall short of fully solving the problem?
-● Presently available wheelchairs or wheelchair attachment comes with only the panic button.
+  Presently available wheelchairs or wheelchair attachment comes with only the panic button.
 Section B: Your Invention
 - 2 -
-● There are only a few wheelchairs which come with a GPS module but in those
+  There are only a few wheelchairs which come with a GPS module but in those
 wheelchairs you don’t have liberty to select persons with which you want to share
 location.
-● There is no such wheelchair attachment available which comes with both location sharing
+  There is no such wheelchair attachment available which comes with both location sharing
 and panic button only a few wheelchairs come with it.
-● These wheelchair attachments (With panic button) are only manufactured for specific
+  These wheelchair attachments (With panic button) are only manufactured for specific
 types of wheelchair not for every kind of wheelchair.
 3. Conduct keyword searches using Google and list relevant prior art material found?
-● Smart wheelchair
-● Location sharing wheelchair
-● Wheelchair panic button
-● Safety device for disabled
-● Wheelchair attachment
-● Wheelchair with GPS
-● Wheelchair with SOS button
+  Smart wheelchair
+  Location sharing wheelchair
+  Wheelchair panic button
+  Safety device for disabled
+  Wheelchair attachment
+  Wheelchair with GPS
+  Wheelchair with SOS button
 D. DESCRIPTION OF PROPOSED INVENTION:
 How does your idea solve the problem defined above? Please include details about how your
 idea is implemented and how it works?
