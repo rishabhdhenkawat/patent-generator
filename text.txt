@@ -1,0 +1,67 @@
+A. INVENTION TITLE: SmartWheel Wheelchair (Live It On wheels).
+B. PROBLEM: What overall problem(s) does the proposed invention solve or what purpose does it serve? (Note: Please be specific, spell out acronyms and provide enough layman level detail to fully explain the problem.)
+Ans: As the recent survey done by World Health Organization (WHO), over 1 billion people are estimated to live with some form of disability. This corresponds to about 15% of world population, with 190 million people age from 15 years and above and this number keep on rising with increasing population and there is no such device which can ensure their safety when they go out.
+For people who have difficulty in walking or moving around, a wheelchair is an essential requirement for mobility, empowerment, dignity, and overall well-being. Mobility can enable a wheelchair user to be independent, to participate and to have equal opportunities, to access education, employment, health care, and take part in family and community life.
+Each wheelchair user today faces problems while alone like when they face some mechanical problem in their wheel or they lose somewhere or they trip from their wheelchair or they find themselves in a falling victim situation they feel helpless and need someone to assure their security and safety. NGO(s) and other govt. Organizations/health centers/Hospitals do not have so many people to look after each and every individual facing mobility impairment.
+Even after advancement in a wheelchair, a disabled person can drive a car but still not be able to send their location to their concerned ones when they face any mishappening.
+C. EXISTING SOLUTIONS / PRIOR ART/RELATED APPLICATIONS & PATENTS:
+1. List any known products, or combination of products, currently available to solve the same problem(s). What is the present commercial practice?
+There are no such attachments present in the market commercially which comes with both panic button and location sharing functionality and is attachable to every kind of wheelchair. Only some mobile applications are available which are not handy/convenient to use in case of emergency.
+2. In what way(s) do the presently available solutions fall short of fully solving the problem?
+● Presently available wheelchairs or wheelchair attachment comes with only the panic button.
+Section B: Your Invention
+- 2 -
+● There are only a few wheelchairs which come with a GPS module but in those
+wheelchairs you don’t have liberty to select persons with which you want to share
+location.
+● There is no such wheelchair attachment available which comes with both location sharing
+and panic button only a few wheelchairs come with it.
+● These wheelchair attachments (With panic button) are only manufactured for specific
+types of wheelchair not for every kind of wheelchair.
+3. Conduct keyword searches using Google and list relevant prior art material found?
+● Smart wheelchair
+● Location sharing wheelchair
+● Wheelchair panic button
+● Safety device for disabled
+● Wheelchair attachment
+● Wheelchair with GPS
+● Wheelchair with SOS button
+D. DESCRIPTION OF PROPOSED INVENTION:
+How does your idea solve the problem defined above? Please include details about how your
+idea is implemented and how it works?
+Ans: It is a compact device that can be attached to any kind of wheelchair.The main purpose of
+this device is to ensure safety and security of the user.
+It has 2 push buttons on it one is for sending the location to your concerned ones in case of an
+emergency and the other one is a panic button in case a user needs help from nearby and this
+entire operation is synchronised with an mobile application in order to share location.
+The person on the wheelchair can’t help him/herself from any falling victim situation in case of
+emergency therefore they need to send location to their concern ones this also allows a person
+to go alone without anyone looking after them.This also helpful for the NGOs to track any of
+their person’s location anytime to ensure their(user’s) security.
+As we all know that a person on wheelchair can be an easy target for thieves or robbers and
+this limits them to move out alone but this problem can be resolved if a panic button is there in
+which they can share their live location in case of emergency and ask for help from nearby in
+case of any victim situation.
+This device is very efficient as it consumes a very little amount of energy that is provided by a
+small battery of 400mah (can be increased) which can last weeks in a single charge.
+For sharing location we are using GPS module for first place and modern google maps api
+which fetches the wifi or cellular network nearby to track anyone's location which can be used
+Section B: Your Invention
+- 3 -
+when a proper internet connection is not available to the user or if the gps module is not working properly.
+Special variants are also provided for those who can’t press a button and their wheelchair is voice or eye controlled.In this variant instead of using push buttons we will use voice commands such as “share location” or “need help” and for eye control some special eye gestures.
+As we all know that a person on a wheelchair suffers a lot at places of high security such as Airports .There(Airports) they have a different security protocols where they have to use wheelchair provided by the authorities and sometime there wheelchair get misplaced.To avoid this situation they(user) can track the location of their wheelchair with the provided application.
+E. NOVELTY: Please provide a one-sentence description of what distinguishes your idea from the prior art. This is a statement of what is new, and not a business case.
+Ans: Our proposed model of wheelchair attachment ensures the safety of the person sitting on it in all ways because it provides the panic button as well as location sharing features and makes them independent to go out and explore the world.
+F. COMPARISON: Please provide advantages and basic differences of the proposed solution over previous solutions.
+Ans: Our product comes with location tracking and panic button features which are synchronised by an mobile application which gives an interface to our device which makes it easy to use.
+Other devices present in the market right now is just a panic button which not specifically manufactured for wheelchairs and also don’t provide user friendly service which can be used by everyone.There are some wheelchair present in the market which come with a location sharing functionality but budget is a constraint in these wheelchairs these are so expensive that only some few and privileged persons can afford those wheelchair.
+There many types of disability that an individual faces today these not just includes mobility impairment(don't be able to walk) but also vision disability and also problem in hand movements.
+So advanced variants of our product which is more expensive than base variant but still affordable to everyone comes with eye gesture and hand gesture functionality which is useful for persons suffering from both motor and vision disability.
+G. ADDITIONAL INFORMATION: Please provide additional information such as, a claim set, drawings, a software code, etc.)
+Section B: Your Invention
+- 4 -
+Our device comes in use whenever a person on a wheelchair feels uncomfortable or unsafe and need someone’s assistance or help in any victim situation or a any medical emergency he/she can press the panic button which blows a loud siren so that a nearby can help them and the location of the wheelchair will send to the person he/she has added on the mobile application.
+If the person sitting on the wheelchair falls somehow then their (person on the wheel) location will be send to their concern ones through the application.
+Section B: Your Invention
+- 5 -
